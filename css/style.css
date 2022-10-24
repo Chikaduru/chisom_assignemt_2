@@ -29,7 +29,7 @@ body{
 	background: black;
 }
  
-h1,h2,h3,h4,h5{
+h2,h3,h4,h5{
 	font-family: 'pinyon_scriptregular';
 }
 
@@ -105,10 +105,12 @@ main{
 
 #menusection{
     background: url('../images/footer-food.png') no-repeat 550px 285px red;
+    border-radius: 20px
 }
 
 #ordersection{
     background: url('../images/food-plate2.jpg') -110px;
+    
 }
 
 .overlay{
@@ -130,6 +132,26 @@ main{
     color: white;
 }
 
+h1{
+    text-align: center;
+    color: white;
+    
+    height: 0px;
+}
+#tableform{
+    text-align: center;
+}
+
+#hello{
+    box-sizing: border-box;
+    border-radius: 15px;
+    width: 800px;
+    height: 45px;
+    padding: 10px;
+    background-color: yellow;
+    border-color: yellow;
+
+}
 
 
 
