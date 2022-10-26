@@ -104,8 +104,8 @@ main{
 }
 
 #menusection{
-    background: url('../images/footer-food.png') no-repeat 550px 285px red;
-    border-radius: 20px
+    background: url('../images/footer-food.png') no-repeat url('../images/footer-food.png') no-repeat 721px 350px  red;
+    background-size: 150px;
 }
 
 #ordersection{
@@ -150,6 +150,7 @@ h1{
     padding: 10px;
     background-color: yellow;
     border-color: yellow;
+    margin-top: 20px;
 
 }
 
